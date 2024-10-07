@@ -5655,8 +5655,8 @@
     },
     "WeatherService/1.0.0": {
       "type": "project",
-      "path": "../Weather_monitoring_and_reporting_service/WeatherService.csproj",
-      "msbuildProject": "../Weather_monitoring_and_reporting_service/WeatherService.csproj"
+      "path": "../WeatherService/WeatherService.csproj",
+      "msbuildProject": "../WeatherService/WeatherService.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5702,8 +5702,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\Weather_monitoring_and_reporting_service\\WeatherService.csproj": {
-              "projectPath": "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\Weather_monitoring_and_reporting_service\\WeatherService.csproj"
+            "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\WeatherService\\WeatherService.csproj": {
+              "projectPath": "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\WeatherService\\WeatherService.csproj"
             }
           }
         }

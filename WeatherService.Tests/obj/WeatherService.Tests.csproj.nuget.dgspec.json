@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\Weather_monitoring_and_reporting_service\\WeatherService.csproj": {
-                "projectPath": "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\Weather_monitoring_and_reporting_service\\WeatherService.csproj"
+              "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\WeatherService\\WeatherService.csproj": {
+                "projectPath": "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\WeatherService\\WeatherService.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\Weather_monitoring_and_reporting_service\\WeatherService.csproj": {
+    "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\WeatherService\\WeatherService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\Weather_monitoring_and_reporting_service\\WeatherService.csproj",
+        "projectUniqueName": "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\WeatherService\\WeatherService.csproj",
         "projectName": "WeatherService",
-        "projectPath": "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\Weather_monitoring_and_reporting_service\\WeatherService.csproj",
+        "projectPath": "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\WeatherService\\WeatherService.csproj",
         "packagesPath": "C:\\Users\\Raghad Hanon\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\Weather_monitoring_and_reporting_service\\obj\\",
+        "outputPath": "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\WeatherService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

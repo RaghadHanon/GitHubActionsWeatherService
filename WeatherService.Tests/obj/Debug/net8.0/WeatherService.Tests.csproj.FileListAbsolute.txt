@@ -108,15 +108,21 @@ D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Design Patterns and clean 
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Design Patterns and clean code\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherService.Tests.pdb
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Design Patterns and clean code\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherService.Tests.genruntimeconfig.cache
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Design Patterns and clean code\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\ref\WeatherService.Tests.dll
+D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherService.Tests.csproj.AssemblyReference.cache
+D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherService.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherService.Tests.AssemblyInfoInputs.cache
+D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherService.Tests.AssemblyInfo.cs
+D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherService.Tests.csproj.CoreCompileInputs.cache
+D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherService.Tests.sourcelink.json
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_WeatherService.Tests
-D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\testhost.exe
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\testhost.dll
-D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
-D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\WeatherService.deps.json
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\WeatherService.runtimeconfig.json
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\WeatherService.exe
+D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\testhost.exe
+D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\WeatherService.Tests.deps.json
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\WeatherService.Tests.runtimeconfig.json
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\WeatherService.Tests.dll
@@ -206,12 +212,6 @@ D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monit
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\WeatherService.dll
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\bin\Debug\net8.0\WeatherService.pdb
-D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherService.Tests.csproj.AssemblyReference.cache
-D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherService.Tests.GeneratedMSBuildEditorConfig.editorconfig
-D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherService.Tests.AssemblyInfoInputs.cache
-D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherService.Tests.AssemblyInfo.cs
-D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherService.Tests.csproj.CoreCompileInputs.cache
-D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherService.Tests.sourcelink.json
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherS.F7C6F7A9.Up2Date
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\WeatherService.Tests.dll
 D:\Users\Raghad Hanon\Desktop\Programing\FTS Training\Unit testing\weather monitoring and reporting service\WeatherService.Tests\obj\Debug\net8.0\refint\WeatherService.Tests.dll

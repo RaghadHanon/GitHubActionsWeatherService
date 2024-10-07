@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Weather_monitoring_and_reporting_service\WeatherService.csproj" />
+    <ProjectReference Include="..\WeatherService\WeatherService.csproj" />
   </ItemGroup>
 
   <ItemGroup>
