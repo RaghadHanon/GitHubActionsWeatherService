@@ -22,7 +22,7 @@ public class JsonWeatherParserTests
     }
 
     [Theory]
-    [InlineData("""{"Location": "City Name", "Temperature": 30, "Humidity": 40}""")]
+    [InlineData("""{"Location": "City Name", "Temperature": 32, "Humidity": 40}""")]
     public void ParseWeatherData_WhenInputIsValidJson_ShouldReturnWeatherData(string input)
     {
         var result = _sut.ParseWeatherData(input);

@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7659E489-6AD0-4606-BAF3-02942F04EBC6}|WeatherService.Tests\\WeatherService.Tests.csproj|d:\\users\\raghad hanon\\desktop\\programing\\fts training\\unit testing\\weather monitoring and reporting service\\weatherservice.tests\\inputtesting\\jsonweatherparsershould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7659E489-6AD0-4606-BAF3-02942F04EBC6}|WeatherService.Tests\\WeatherService.Tests.csproj|solutionrelative:weatherservice.tests\\inputtesting\\jsonweatherparsershould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7659E489-6AD0-4606-BAF3-02942F04EBC6}|WeatherService.Tests\\WeatherService.Tests.csproj|d:\\users\\raghad hanon\\desktop\\programing\\fts training\\unit testing\\weather monitoring and reporting service\\weatherservice.tests\\inputtesting\\weatherparserfactoryshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7659E489-6AD0-4606-BAF3-02942F04EBC6}|WeatherService.Tests\\WeatherService.Tests.csproj|solutionrelative:weatherservice.tests\\inputtesting\\weatherparserfactoryshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonWeatherParserShould.cs",
+              "DocumentMoniker": "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\WeatherService.Tests\\InputTesting\\JsonWeatherParserShould.cs",
+              "RelativeDocumentMoniker": "WeatherService.Tests\\InputTesting\\JsonWeatherParserShould.cs",
+              "ToolTip": "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\WeatherService.Tests\\InputTesting\\JsonWeatherParserShould.cs",
+              "RelativeToolTip": "WeatherService.Tests\\InputTesting\\JsonWeatherParserShould.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:54:08.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherParserFactoryShould.cs",
+              "DocumentMoniker": "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\WeatherService.Tests\\InputTesting\\WeatherParserFactoryShould.cs",
+              "RelativeDocumentMoniker": "WeatherService.Tests\\InputTesting\\WeatherParserFactoryShould.cs",
+              "ToolTip": "D:\\Users\\Raghad Hanon\\Desktop\\Programing\\FTS Training\\Unit testing\\weather monitoring and reporting service\\WeatherService.Tests\\InputTesting\\WeatherParserFactoryShould.cs",
+              "RelativeToolTip": "WeatherService.Tests\\InputTesting\\WeatherParserFactoryShould.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:54:05.807Z",
+              "EditorCaption": ""
             }
           ]
         }
