@@ -1,0 +1,1 @@
+[![Build and Test](https://github.com/RaghadHanon/GitHubActionsWeatherService/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/RaghadHanon/GitHubActionsWeatherService/actions/workflows/test.yml)
